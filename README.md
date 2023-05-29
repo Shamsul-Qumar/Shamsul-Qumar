@@ -1,6 +1,6 @@
 # Aspiring Data Analyst
 
-![Data Analysis](https://yourdomain.com/images/data_analysis_banner.png)
+![Data Analysis](![Uploading image.png…]())
 
 ## About Me
 
