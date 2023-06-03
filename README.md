@@ -47,11 +47,11 @@
  
 
  
- - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/TejasK1906?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TejasK1906" height="30" width="40" style="max-width: 100%;"></a></p>
+ - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/Shamsul-Qumar?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shamsul-Qumar" height="30" width="40" style="max-width: 100%;"></a></p>
  
  - :thinking: Passionate to draw meaningful insights from the data.
  
- - :mailbox: Contact me through <strong> <a href="https://www.linkedin.com/in/tejas-natani-6b202a196/" rel="nofollow" >LinkedIn</a></strong>.
+ - :mailbox: Contact me through <strong> <a href="https://www.linkedin.com/in/shamsul-qumar-5a0915156/" rel="nofollow" >LinkedIn</a></strong>.
  
  
  
