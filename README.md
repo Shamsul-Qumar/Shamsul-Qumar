@@ -5,11 +5,11 @@
 
 <h1 align = "center">
   Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Tejas Natani.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Shamsul Qumar.
 </h1>
 
 <h3  align = "center">
- <b>I'm an aspiring Data Analyst with keen interest in handling and manipulating the data and providing the best possible insight on the same.</b>
+ <b>I'm an aspiring Data Analyst with keen interest in Research over the data and providing the best possible insight on the same.</b>
 </h3>
  
  <h2>
